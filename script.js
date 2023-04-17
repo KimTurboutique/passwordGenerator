@@ -22,8 +22,11 @@ function generatePassword() {
 }
 
 // Step 2: User inputs random number between 8-128
+var userChoice = Math.floor(Math.random() * 128) + 8;
+console.log(userChoice);
 
 // Step 2: Computer prompts user for length of password
+
 
 // Step 3: Computer prompts user for character types to include in password
 
