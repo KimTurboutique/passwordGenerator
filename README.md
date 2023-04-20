@@ -1,4 +1,4 @@
-# Passwod Generator
+# Password Generator
 
 This password generator was built for the Bootcamp Week 3 Challenge. I applied the knowledge and skills I gained from week three's classes to modify the starter code and generate a random password for employees.
 
