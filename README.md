@@ -12,6 +12,7 @@ This password generator was built for the Bootcamp Week 3 Challenge. I applied t
 ### Webpage screenshots:
 <img width="1429" alt="Screenshot 2023-04-19 at 10 11 59 PM" src="https://user-images.githubusercontent.com/127644189/233240010-2604c25c-5aab-4466-b1b3-d03d9a4c7c72.png">
 
+<img width="1417" alt="Screenshot 2023-04-19 at 10 15 02 PM" src="https://user-images.githubusercontent.com/127644189/233240300-d26a093c-85ad-4399-8df6-676891706563.png">
 
 
 ### References and Tools are as follows:
