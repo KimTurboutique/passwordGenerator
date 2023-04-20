@@ -7,9 +7,11 @@ This password generator was built for the Bootcamp Week 3 Challenge. I applied t
 * The password was generated to include special characters or numbers, upper and lowercase letters.
 
 
-### Webpage URL: ()
+### Webpage URL: (https://kimturboutique.github.io/passwordGenerator/)
 
 ### Webpage screenshots:
+<img width="1429" alt="Screenshot 2023-04-19 at 10 11 59 PM" src="https://user-images.githubusercontent.com/127644189/233240010-2604c25c-5aab-4466-b1b3-d03d9a4c7c72.png">
+
 
 
 ### References and Tools are as follows:
